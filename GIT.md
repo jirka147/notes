@@ -1,6 +1,6 @@
 # GIT
 ## GIT - start
-echo "# web" >> README.md
+`echo "# web" >> README.md`
 `git init`
 `git add README.md`
 `git commit -m "first commit"`
